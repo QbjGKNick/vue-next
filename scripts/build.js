@@ -76,7 +76,7 @@ async function build(target) {
   const pkg = require(`${pkgDir}/package.json`)
 
   // only build published packages for release
-  if (isRelease && pkg.private) {
+  if ((isRelease || !targets.length) && pkg.private) {
     return
   }
 
