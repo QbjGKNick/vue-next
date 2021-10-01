@@ -929,9 +929,9 @@
   integrity sha512-tX2Ju8fOyEtfstfmwjfSJcstTFXwzdFAUbYJ5bWWifvKIgbe6B0FbM8l3Wb7wOaaxKn4FYkii7WQnAPcsTqaIA==
 
 "@vue/repl@^0.3.4":
-  version "0.3.4"
-  resolved "https://registry.yarnpkg.com/@vue/repl/-/repl-0.3.4.tgz#58cb4f016ca72243035611602dd5a6426fd88a25"
-  integrity sha512-WLCCfnxSYSUcweNVJ8T4qqnkZfw3rX5AkXqoX5lHBnjjmCCoqKAXNSTiqwXHQ86Q8fbzH8LyOK89GgmHeXdcHw==
+  version "0.3.7"
+  resolved "https://registry.yarnpkg.com/@vue/repl/-/repl-0.3.7.tgz#e5bd0f4a87ce1ce88bc03a09ec1bb5ccec779bce"
+  integrity sha512-n756Zsts7P1/IcFciPwM1S1l/XNvdqp/F0rgkITPAajcnt+BbqN/9Y6HS6p/p7FqEwe5i8wwvi0eO/7J0do6Zg==
 
 "@zeit/schemas@2.6.0":
   version "2.6.0"
